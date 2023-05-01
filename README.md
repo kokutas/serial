@@ -1,5 +1,7 @@
 # serial
 [![](https://img.shields.io/badge/Home-kokutas/serial-orange?style=plastic&logo=go)](https://github.com/kokutas/serial)
+[![README-zh](https://shields.io/badge/README-%E4%B8%AD%E6%96%87-blue)](README.zh_CN.md)
+
 
 ## Table of Contents
 - [Description](#description)
@@ -40,4 +42,4 @@ Software architecture description
 ## Feature
 
 ## License
-[GNU GENERAL PUBLIC](LICENSE) © kokutas
+[GNU](LICENSE) © kokutas

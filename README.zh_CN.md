@@ -1,5 +1,6 @@
 # serial
 [![](https://img.shields.io/badge/%E4%B8%BB%E9%A1%B5-kokutas/serial-orange?style=plastic&logo=go)](https://github.com/kokutas/serial)
+[![Translation](https://shields.io/badge/README-English-blue)](README.md)
 
 ## 目录
 - [项目介绍](#项目介绍)
@@ -39,4 +40,4 @@
 ## 功能实现
 
 ## 开源协议
-[GNU GENERAL PUBLIC](LICENSE) © kokutas
+[GNU](LICENSE) © kokutas
